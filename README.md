@@ -13,7 +13,4 @@ Get Involved
 Playtesting: We’re looking for playtesters to help us refine EFA. Join our community and provide feedback!
 Contributions: This project is open-source! Contributions, whether through code, art, or ideas, are welcome to help make EFA even better.
 Feedback: We value your input. Share your thoughts and suggestions through GitHub issues or join our Discord community.
-Installation
-Clone the repository.
-Open the project in Unity.
-Build and run to start playing.
+
